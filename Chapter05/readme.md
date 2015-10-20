@@ -10,7 +10,7 @@
 3. remote-rollovers:  
 实现点击文本，在相应图片的位置凸显出来(方框的方式)，原理：现在相应位置放边框，利用定位  
 然后放到联接上时，在设置边框即可。  
-	#pic .rich a .hotspot{
+	\#pic .rich a .hotspot{
         top:15px;
 	    left:95px;
         }
